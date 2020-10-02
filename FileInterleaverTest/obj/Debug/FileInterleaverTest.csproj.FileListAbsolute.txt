@@ -1,9 +1,0 @@
-C:\Users\ainaa\source\repos\FileInterleaverTest\FileInterleaverTest\bin\Debug\FileInterleaverTest.exe
-C:\Users\ainaa\source\repos\FileInterleaverTest\FileInterleaverTest\bin\Debug\FileInterleaverTest.pdb
-C:\Users\ainaa\source\repos\FileInterleaverTest\FileInterleaverTest\obj\Debug\FileInterleaverTest.csprojAssemblyReference.cache
-C:\Users\ainaa\source\repos\FileInterleaverTest\FileInterleaverTest\obj\Debug\FileInterleaverTest.Form1.resources
-C:\Users\ainaa\source\repos\FileInterleaverTest\FileInterleaverTest\obj\Debug\FileInterleaverTest.Properties.Resources.resources
-C:\Users\ainaa\source\repos\FileInterleaverTest\FileInterleaverTest\obj\Debug\FileInterleaverTest.csproj.GenerateResource.cache
-C:\Users\ainaa\source\repos\FileInterleaverTest\FileInterleaverTest\obj\Debug\FileInterleaverTest.csproj.CoreCompileInputs.cache
-C:\Users\ainaa\source\repos\FileInterleaverTest\FileInterleaverTest\obj\Debug\FileInterleaverTest.exe
-C:\Users\ainaa\source\repos\FileInterleaverTest\FileInterleaverTest\obj\Debug\FileInterleaverTest.pdb
